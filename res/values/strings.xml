@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Wils Threads</string>
+    <string name="title_string">Wil\'s Simple Thread Example</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="threadBtn1">Start Thread 1</string>
+    <string name="threadBtn2">Start Thread 2</string>
+    <string name="clicked_string">You Clicked a Button</string>
+    
+</resources>
